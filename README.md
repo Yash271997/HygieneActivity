@@ -1,2 +1,2 @@
-# HygieneActivity
-PowerShell Script which perform hygiene/maintenance activities
+# HygeieneActivity
+PowerShell Script which perform hygiene activity
